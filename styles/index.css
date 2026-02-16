@@ -17,7 +17,7 @@ body {
         header {
             h1 {
                 text-align: center;
-                color: aliceblue;
+                color: rgb(22, 127, 219);
                 display: flex;
                 flex-direction: column;
                 align-items: center;
