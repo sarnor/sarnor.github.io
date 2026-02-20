@@ -113,24 +113,24 @@ body {
                             #111827,
                             #44213a,
                             #0f172a);
-
-
                     border-radius: 5%;
                     height: 150px;
                     width: 350px;
                     display: flex;
-
                     flex-direction: column;
-
                     gap: 15px;
 
                     span {
+                        cursor: pointer;
                         color: wheat;
                         font-family: sans-serif;
                         overflow: hidden;
                         margin: 5px;
                         padding: 2px;
                         --main-pass-color: rgb(72, 255, 0);
+                        width: 300px;
+                        background-color: #00000099;
+                        padding: 10px;
 
                         &:first-child {
                             width: 60px;
